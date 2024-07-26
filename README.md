@@ -10,5 +10,5 @@
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
 - **Nombre completo:** Rafael Salcedo
-- **ID de la Universidad:** 299495
-- **Usuario de Github:cd** rafaelsava
+- **ID de la Universidad:** 0000299495
+- **Usuario de Github:** rafaelsava
